@@ -1,2 +1,14 @@
+
+
+
+
+
+
+
+- Learned how to use 'nano' to create files.
+- Learned basic Git workflow: add, commit, push.
+- Started network automation project with Python.
+- Implemented a 'while loop' for continuous monitoring.
+
 My learning log: Starting network automation project).
 
